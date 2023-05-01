@@ -1,0 +1,13 @@
+.main-action {
+    display: flex;
+    align-items: center;
+    justify-content: center; /* centraliza horizontalmente */
+    color: #000;
+    font-size: 35px;
+    font-weight: 500;
+    text-decoration: none;
+    margin-right: 30px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+  

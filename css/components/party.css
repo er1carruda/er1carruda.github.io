@@ -1,0 +1,27 @@
+body {
+	background-color: yellow;
+	color: black;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.party-section {
+	padding: 20px;
+	margin: 20px auto;
+	max-width: 600px;
+	text-align: center;
+}
+
+h2 {
+	font-size: 36px;
+	margin-bottom: 20px;
+}
+
+ul {
+	list-style-type: none;
+	padding: 0;
+	margin-bottom: 20px;
+}
+
+li {
+	font-size: 24px;
+}
